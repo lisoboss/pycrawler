@@ -1,7 +1,6 @@
-theme: jekyll-theme-cayman
-
-site:
-  name: Python爬虫面试题
+#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-blog
+title: Python爬虫面试题
 
 # Others
 markdown: kramdown
