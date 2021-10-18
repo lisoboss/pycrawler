@@ -1,2 +1,5 @@
-name: Python爬虫面试题
+title: Python爬虫面试题
 theme: jekyll-theme-cayman
+
+# Others
+markdown: kramdown
