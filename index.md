@@ -1,4 +1,4 @@
-# Python爬虫面试题
+# Python爬虫
 
 ## Request中包含什么呢？
 1. 请求方式：主要有GET和POST两种方式,POST请求的参数不会包含在url里面 
